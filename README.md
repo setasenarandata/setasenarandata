@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1A1A1D&background=FFFFFF&center=true&vCenter=true&width=1000&lines=Setasena+Randata+Ramadanie;Software+Engineer;MBP+M1+Pro+14%22+2021"></a>
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1A1A1D&background=FFFFFF&center=true&vCenter=true&width=435&lines=Setasena+Randata+Ramadanie;Software+Engineer;MBP+M1+Pro+14%22+2021)](https://git.io/typing-svg)
 
 <p align="center">
   <em>
