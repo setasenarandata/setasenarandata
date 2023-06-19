@@ -2,21 +2,17 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1A1A1D&background=FFFFFF&center=true&vCenter=true&width=1000&lines=Setasena+Randata+Ramadanie;Software+Engineer;MBP+M1+Pro+14%22+2021"></a>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1A1A1D&background=FFFFFF&center=true&vCenter=true&width=435&lines=Setasena+Randata+Ramadanie;Software+Engineer;MBP+M1+Pro+14%22+2021)](https://git.io/typing-svg)
-
 <p align="center">
   <em>
     <b>Setasena Randata Ramadanie</b> is a Software Engineer living and working in Jakarta. 
   <br>
     <i>Currently Android Developer at <b><a href="https://grow.google/intl/id_id/bangkit">Bangkit by Google, GoTo & Traveloka</a></b>. Still an undergraduate student of computer science at <b><a href="https://ui.ac.id">University of Indonesia</a></b>.</i>
 </p>
-<br>
 
 ---
-
-<details>
+<details open="">
 <summary>
-  💻 Current Tech Stacks:
+  Current Tech Stacks:
 </summary>
    <br>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
@@ -30,7 +26,7 @@
   
 <details open="">
 <summary>
- 📔 GitHub Stats:
+ GitHub Stats:
 </summary>
 <br>
 <p align="center">
@@ -46,7 +42,7 @@
 
 ---
 
-<h4> Connect with me🤝: <h4>
+<h4> Connect with me <h4>
   </hr>
   <a href="https://www.linkedin.com/in/setasenarandata/">
    <img align="left" alt="Setasena Randata Ramadanie | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
