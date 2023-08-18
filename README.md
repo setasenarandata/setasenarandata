@@ -6,7 +6,7 @@
   <em>
     <b>Setasena Randata Ramadanie</b> is a Software Engineer living and working in Jakarta. 
   <br>
-    <i>Currently Android Developer at <b><a href="https://grow.google/intl/id_id/bangkit">Bangkit by Google, GoTo & Traveloka</a></b>. Still an undergraduate student of computer science at <b><a href="https://ui.ac.id">University of Indonesia</a></b>.</i>
+    <i>Currently Back-End Engineer at <b><a href="https://traveloka.com">Traveloka</a></b>. Still an undergraduate student of computer science at <b><a href="https://ui.ac.id">University of Indonesia</a></b>.</i>
 </p>
 
 ---
